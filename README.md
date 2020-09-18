@@ -2,6 +2,23 @@
 
 <!--**LX5321/LX5321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<pre style="bgcolor: black">
+    #                                                            
+   # #   #      ###### #    #   ##   #    # #####  ###### #####  
+  #   #  #      #       #  #   #  #  ##   # #    # #      #    # 
+ #     # #      #####    ##   #    # # #  # #    # #####  #    # 
+ ####### #      #        ##   ###### #  # # #    # #      #####  
+ #     # #      #       #  #  #    # #   ## #    # #      #   #  
+ #     # ###### ###### #    # #    # #    # #####  ###### #    # 
+    ######                                                       
+    #     #  ####  #####  #####  #  ####  #    # ######  ####    
+    #     # #    # #    # #    # # #    # #    # #      #        
+    ######  #    # #    # #    # # #      #    # #####   ####    
+    #   #   #    # #    # #####  # #  ### #    # #           #   
+    #    #  #    # #    # #   #  # #    # #    # #      #    #   
+    #     #  ####  #####  #    # #  ####   ####  ######  ####                                                                                                                                        
+</pre>
+
 - 🔭 I’m currently working on improving my coding skills to get into some interesting projects. Also enrolled in full-time Masters programme in Computer Science in Smt. Parvatibai Chowgule College of Arts and Science.
 - 🌱 I’m currently learning data structures and operating systems and networking fundamentals as a course in Masters.
 - 👯 I’m looking to collaborate on algorithmic and scientific computing projects.
